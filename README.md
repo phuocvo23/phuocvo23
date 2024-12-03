@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">I'm PHUOC from HO CHI MINH City<br><br>- 🔭 I’m studing as HUTECH University<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Phước</br>
+  I'm from Long An
+  <br>
+  <br>- 🔭 I’m studing as HUTECH University<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
